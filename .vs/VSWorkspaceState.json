@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Console",
+    "\\app\\Exceptions",
+    "\\bootstrap",
+    "\\storage",
+    "\\storage\\app",
+    "\\storage\\app\\public",
+    "\\tests",
+    "\\tests\\Feature"
+  ],
+  "SelectedNode": "\\bootstrap",
+  "PreviewInSolutionExplorer": false
+}
